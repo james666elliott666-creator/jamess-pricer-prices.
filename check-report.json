@@ -1,7 +1,330 @@
 {
-  "scope": "initial sample",
-  "checkedAt": "2026-09-26T14:40:15+00:00",
-  "success": 9,
-  "notChecked": 772,
-  "failures": []
+  "checkedAt": "2026-09-26T17:22:51+00:00",
+  "success": 700,
+  "failures": [
+    {
+      "key": "material:CP-950546",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "material:CP-174739",
+      "reason": "Pack quantity changed; review required"
+    },
+    {
+      "key": "material:CP-174742",
+      "reason": "Pack quantity changed; review required"
+    },
+    {
+      "key": "material:CP-120598",
+      "reason": "[<class 'decimal.ConversionSyntax'>]"
+    },
+    {
+      "key": "material:CP-505027",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "material:CP-954668",
+      "reason": "Pack quantity changed; review required"
+    },
+    {
+      "key": "material:CP-950519",
+      "reason": "Pack quantity changed; review required"
+    },
+    {
+      "key": "material:CP-614915",
+      "reason": "Pack quantity changed; review required"
+    },
+    {
+      "key": "material:CP-614930",
+      "reason": "Pack quantity changed; review required"
+    },
+    {
+      "key": "material:CP-912001",
+      "reason": "Pack quantity changed; review required"
+    },
+    {
+      "key": "material:CP-953113",
+      "reason": "Pack quantity changed; review required"
+    },
+    {
+      "key": "material:CP-950164",
+      "reason": "Product not found on source page"
+    },
+    {
+      "key": "material:CP-111990",
+      "reason": "Product not found on source page"
+    },
+    {
+      "key": "material:CP-950503",
+      "reason": "Pack quantity changed; review required"
+    },
+    {
+      "key": "material:CP-210878",
+      "reason": "Pack quantity changed; review required"
+    },
+    {
+      "key": "material:CP-964128",
+      "reason": "Pack quantity changed; review required"
+    },
+    {
+      "key": "material:CP-964127",
+      "reason": "Pack quantity changed; review required"
+    },
+    {
+      "key": "material:CP-499915",
+      "reason": "Pack quantity changed; review required"
+    },
+    {
+      "key": "material:CP-846523",
+      "reason": "Pack quantity changed; review required"
+    },
+    {
+      "key": "material:CP-960818",
+      "reason": "Product not found on source page"
+    },
+    {
+      "key": "material:CP-868464",
+      "reason": "Pack quantity changed; review required"
+    },
+    {
+      "key": "material:CP-710006",
+      "reason": "Pack quantity changed; review required"
+    },
+    {
+      "key": "material:CP-321685",
+      "reason": "Pack quantity changed; review required"
+    },
+    {
+      "key": "material:CP-461846",
+      "reason": "Pack quantity changed; review required"
+    },
+    {
+      "key": "material:CP-658257",
+      "reason": "Pack quantity changed; review required"
+    },
+    {
+      "key": "material:CP-575647",
+      "reason": "Pack quantity changed; review required"
+    },
+    {
+      "key": "material:CP-911828",
+      "reason": "Pack quantity changed; review required"
+    },
+    {
+      "key": "material:CP-905659",
+      "reason": "Pack quantity changed; review required"
+    },
+    {
+      "key": "material:CP-521211",
+      "reason": "Pack quantity changed; review required"
+    },
+    {
+      "key": "material:CP-331283",
+      "reason": "Pack quantity changed; review required"
+    },
+    {
+      "key": "material:CP-979151",
+      "reason": "Pack quantity changed; review required"
+    },
+    {
+      "key": "material:CP-941170",
+      "reason": "Pack quantity changed; review required"
+    },
+    {
+      "key": "material:CP-941171",
+      "reason": "Pack quantity changed; review required"
+    },
+    {
+      "key": "material:CP-616873",
+      "reason": "Pack quantity changed; review required"
+    },
+    {
+      "key": "material:CP-985638",
+      "reason": "Pack quantity could not be verified"
+    },
+    {
+      "key": "material:CP-616903",
+      "reason": "Pack quantity changed; review required"
+    },
+    {
+      "key": "material:CP-285060",
+      "reason": "Pack quantity changed; review required"
+    },
+    {
+      "key": "material:CP-616870",
+      "reason": "Pack quantity changed; review required"
+    },
+    {
+      "key": "material:CP-616898",
+      "reason": "Pack quantity changed; review required"
+    },
+    {
+      "key": "material:CP-616869",
+      "reason": "Pack quantity changed; review required"
+    },
+    {
+      "key": "material:CP-979152",
+      "reason": "Pack quantity changed; review required"
+    },
+    {
+      "key": "material:CP-616896",
+      "reason": "Pack quantity changed; review required"
+    },
+    {
+      "key": "material:CP-285062",
+      "reason": "Pack quantity could not be verified"
+    },
+    {
+      "key": "material:CP-264186",
+      "reason": "Pack quantity could not be verified"
+    },
+    {
+      "key": "material:CP-137202",
+      "reason": "Pack quantity changed; review required"
+    },
+    {
+      "key": "material:CP-588793",
+      "reason": "Pack quantity changed; review required"
+    },
+    {
+      "key": "material:CP-413000",
+      "reason": "Pack quantity changed; review required"
+    },
+    {
+      "key": "material:CP-413001",
+      "reason": "Pack quantity changed; review required"
+    },
+    {
+      "key": "material:CP-174737",
+      "reason": "Pack quantity changed; review required"
+    },
+    {
+      "key": "material:CP-174756",
+      "reason": "[<class 'decimal.ConversionSyntax'>]"
+    },
+    {
+      "key": "material:CP-174757",
+      "reason": "[<class 'decimal.ConversionSyntax'>]"
+    },
+    {
+      "key": "material:CP-412999",
+      "reason": "Pack quantity changed; review required"
+    },
+    {
+      "key": "material:CP-412995",
+      "reason": "Pack quantity changed; review required"
+    },
+    {
+      "key": "material:CP-412993",
+      "reason": "Pack quantity changed; review required"
+    },
+    {
+      "key": "material:CP-174755",
+      "reason": "[<class 'decimal.ConversionSyntax'>]"
+    },
+    {
+      "key": "material:CP-174740",
+      "reason": "Pack quantity changed; review required"
+    },
+    {
+      "key": "material:CP-169071",
+      "reason": "Pack quantity changed; review required"
+    },
+    {
+      "key": "material:CP-169070",
+      "reason": "Pack quantity changed; review required"
+    },
+    {
+      "key": "material:CP-169068",
+      "reason": "Pack quantity changed; review required"
+    },
+    {
+      "key": "material:CP-435178",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "material:CP-795601",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "material:CP-961134",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "material:CP-864670",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "material:CP-845188",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "material:CP-210552",
+      "reason": "Pack quantity changed; review required"
+    },
+    {
+      "key": "material:CP-849083",
+      "reason": "Pack quantity changed; review required"
+    },
+    {
+      "key": "material:CP-724874",
+      "reason": "Product not found on source page"
+    },
+    {
+      "key": "material:CP-574458",
+      "reason": "Pack quantity changed; review required"
+    },
+    {
+      "key": "material:CP-912083",
+      "reason": "Pack quantity changed; review required"
+    },
+    {
+      "key": "radiator:422250",
+      "reason": "Product not found on source page"
+    },
+    {
+      "key": "radiator:331065",
+      "reason": "Product not found on source page"
+    },
+    {
+      "key": "radiator:423026",
+      "reason": "Product not found on source page"
+    },
+    {
+      "key": "radiator:423465",
+      "reason": "Product not found on source page"
+    },
+    {
+      "key": "radiator:421521",
+      "reason": "Product not found on source page"
+    },
+    {
+      "key": "radiator:350942",
+      "reason": "Product not found on source page"
+    },
+    {
+      "key": "radiator:232979",
+      "reason": "Product not found on source page"
+    },
+    {
+      "key": "radiator:232948",
+      "reason": "Product not found on source page"
+    },
+    {
+      "key": "radiator:232959",
+      "reason": "Product not found on source page"
+    },
+    {
+      "key": "radiator:232946",
+      "reason": "Product not found on source page"
+    },
+    {
+      "key": "radiator:232947",
+      "reason": "Product not found on source page"
+    },
+    {
+      "key": "radiator:422502",
+      "reason": "Product not found on source page"
+    }
+  ]
 }
