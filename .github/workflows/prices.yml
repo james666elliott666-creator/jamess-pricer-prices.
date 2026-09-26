@@ -1,0 +1,42 @@
+name: Update City Plumbing prices
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'update_prices.py'
+      - 'catalogue.json'
+      - '.github/workflows/prices.yml'
+  workflow_dispatch:
+  schedule:
+    - cron: '23 5 * * 1'
+permissions:
+  contents: write
+concurrency:
+  group: price-update
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Check supplier prices
+        id: check
+        continue-on-error: true
+        run: python update_prices.py
+      - name: Save verified prices and report
+        run: |
+          git config user.name 'Price updater'
+          git config user.email 'price-updater@users.noreply.github.com'
+          if [ -f prices.json ]; then git add prices.json; fi
+          if [ -f check-report.json ]; then git add check-report.json; fi
+          if ! git diff --cached --quiet; then
+            git commit -m "Update public prices and check report"
+            git push
+          fi
+      - name: Report total failure
+        if: steps.check.outcome == 'failure'
+        run: exit 1
