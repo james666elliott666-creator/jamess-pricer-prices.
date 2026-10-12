@@ -1,6 +1,6 @@
 {
-  "checkedAt": "2026-10-05T05:39:24+00:00",
-  "success": 611,
+  "checkedAt": "2026-10-12T05:37:22+00:00",
+  "success": 726,
   "failures": [
     {
       "key": "material:CP-174739",
@@ -83,7 +83,7 @@
       "reason": "Pack quantity changed; review required"
     },
     {
-      "key": "material:CP-588793",
+      "key": "material:CP-579805",
       "reason": "Pack quantity changed; review required"
     },
     {
@@ -183,504 +183,44 @@
       "reason": "Product not found on source page"
     },
     {
-      "key": "radiator:165830",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:206459",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:165819",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:382550",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:206434",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:240673",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:165831",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:206691",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:240674",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:165832",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:206386",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:240675",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:240690",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:240700",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:165820",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:382549",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:423086",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:240677",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:240692",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:240701",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:240678",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:165833",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:240702",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:240679",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:165834",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:240703",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
       "key": "radiator:423026",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:240696",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:240704",
-      "reason": "Product data unavailable; retained previous price"
+      "reason": "Product not found on source page"
     },
     {
       "key": "radiator:423465",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:165836",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:240705",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:165821",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:165849",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:165822",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:165850",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:206025",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:257704",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:165895",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:165864",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:165879",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:257720",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:206700",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:382545",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:257667",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:165865",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:165880",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:257729",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:206509",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:165881",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:165896",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:206155",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:165882",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:165897",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:165866",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:165883",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:165898",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:165867",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:382546",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:165899",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:165868",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:165884",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:382551",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:165869",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:165885",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:165900",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:165870",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:165886",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:165902",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:165871",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:165887",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:423808",
-      "reason": "Product data unavailable; retained previous price"
+      "reason": "Product not found on source page"
     },
     {
       "key": "radiator:421521",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:165888",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:267346",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:165873",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:165903",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:165874",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:165904",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:422332",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:165968",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:166135",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:165910",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:166032",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:206496",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:165911",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:166087",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:166139",
-      "reason": "Product data unavailable; retained previous price"
+      "reason": "Product not found on source page"
     },
     {
       "key": "radiator:350942",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:166117",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:166206",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:165913",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:166118",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:166207",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:165915",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:166119",
-      "reason": "Product data unavailable; retained previous price"
+      "reason": "Product not found on source page"
     },
     {
       "key": "radiator:232979",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:165916",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:166120",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:166209",
-      "reason": "Product data unavailable; retained previous price"
+      "reason": "Product not found on source page"
     },
     {
       "key": "radiator:232948",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:166121",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:166210",
-      "reason": "Product data unavailable; retained previous price"
+      "reason": "Product not found on source page"
     },
     {
       "key": "radiator:232959",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:166122",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:166212",
-      "reason": "Product data unavailable; retained previous price"
+      "reason": "Product not found on source page"
     },
     {
       "key": "radiator:232946",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:166123",
-      "reason": "Product data unavailable; retained previous price"
+      "reason": "Product not found on source page"
     },
     {
       "key": "radiator:232947",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:165920",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:166215",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:165921",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:166216",
-      "reason": "Product data unavailable; retained previous price"
+      "reason": "Product not found on source page"
     },
     {
       "key": "radiator:422502",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:166218",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:423039",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:423422",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:423509",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:423591",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:423667",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:423736",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:423786",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:423833",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:423867",
-      "reason": "Product data unavailable; retained previous price"
-    },
-    {
-      "key": "radiator:423935",
-      "reason": "Product data unavailable; retained previous price"
+      "reason": "Product not found on source page"
     }
   ]
 }
