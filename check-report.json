@@ -1,6 +1,6 @@
 {
-  "checkedAt": "2026-10-12T05:37:22+00:00",
-  "success": 726,
+  "checkedAt": "2026-10-19T05:50:03+00:00",
+  "success": 725,
   "failures": [
     {
       "key": "material:CP-174739",
@@ -40,7 +40,7 @@
     },
     {
       "key": "material:CP-710006",
-      "reason": "Pack quantity changed; review required"
+      "reason": "Product not found on source page"
     },
     {
       "key": "material:CP-321685",
@@ -77,6 +77,10 @@
     {
       "key": "material:CP-846523",
       "reason": "Pack quantity changed; review required"
+    },
+    {
+      "key": "material:CP-134207",
+      "reason": "HTTP Error 404: Not Found"
     },
     {
       "key": "material:CP-658257",
@@ -147,6 +151,10 @@
       "reason": "Pack quantity changed; review required"
     },
     {
+      "key": "material:CP-134200",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
       "key": "material:CP-849083",
       "reason": "Pack quantity changed; review required"
     },
@@ -165,10 +173,6 @@
     {
       "key": "material:CP-638337",
       "reason": "Displayed price disagrees with product data"
-    },
-    {
-      "key": "material:CP-724874",
-      "reason": "Product not found on source page"
     },
     {
       "key": "material:CP-712458",
