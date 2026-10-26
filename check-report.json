@@ -1,7 +1,71 @@
 {
-  "checkedAt": "2026-10-19T05:50:03+00:00",
-  "success": 725,
+  "checkedAt": "2026-10-26T05:53:23+00:00",
+  "success": 708,
   "failures": [
+    {
+      "key": "material:JP-0352",
+      "reason": "Displayed price disagrees with product data"
+    },
+    {
+      "key": "material:JP-0355",
+      "reason": "Displayed price disagrees with product data"
+    },
+    {
+      "key": "material:JP-0356",
+      "reason": "Displayed price disagrees with product data"
+    },
+    {
+      "key": "material:JP-0363",
+      "reason": "Displayed price disagrees with product data"
+    },
+    {
+      "key": "material:JP-0365",
+      "reason": "Displayed price disagrees with product data"
+    },
+    {
+      "key": "material:JP-0389",
+      "reason": "Displayed price disagrees with product data"
+    },
+    {
+      "key": "material:JP-0979",
+      "reason": "Displayed price disagrees with product data"
+    },
+    {
+      "key": "material:JP-0980",
+      "reason": "Displayed price disagrees with product data"
+    },
+    {
+      "key": "material:CP-129896",
+      "reason": "Displayed price disagrees with product data"
+    },
+    {
+      "key": "material:CP-129900",
+      "reason": "Displayed price disagrees with product data"
+    },
+    {
+      "key": "material:CP-129903",
+      "reason": "Displayed price disagrees with product data"
+    },
+    {
+      "key": "material:CP-129904",
+      "reason": "Displayed price disagrees with product data"
+    },
+    {
+      "key": "material:CP-129907",
+      "reason": "Displayed price disagrees with product data"
+    },
+    {
+      "key": "material:CP-129909",
+      "reason": "Displayed price disagrees with product data"
+    },
+    {
+      "key": "material:CP-129914",
+      "reason": "Displayed price disagrees with product data"
+    },
+    {
+      "key": "material:CP-210386",
+      "reason": "Displayed price disagrees with product data"
+    },
     {
       "key": "material:CP-174739",
       "reason": "Price changed by more than the review threshold"
@@ -172,6 +236,10 @@
     },
     {
       "key": "material:CP-638337",
+      "reason": "Displayed price disagrees with product data"
+    },
+    {
+      "key": "material:CP-724874",
       "reason": "Displayed price disagrees with product data"
     },
     {
