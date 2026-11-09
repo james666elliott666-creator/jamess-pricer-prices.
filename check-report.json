@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-02T06:18:46+00:00",
+  "checkedAt": "2026-11-09T13:59:25+00:00",
   "success": 722,
   "failures": [
     {
@@ -171,6 +171,10 @@
       "reason": "Displayed price disagrees with product data"
     },
     {
+      "key": "material:CP-577344",
+      "reason": "Price changed by more than the review threshold"
+    },
+    {
       "key": "material:CP-109029",
       "reason": "Displayed price disagrees with product data"
     },
@@ -193,10 +197,6 @@
     {
       "key": "radiator:331065",
       "reason": "Product not found on source page"
-    },
-    {
-      "key": "radiator:109785",
-      "reason": "Displayed price disagrees with product data"
     },
     {
       "key": "radiator:423026",
