@@ -1,6 +1,6 @@
 {
-  "checkedAt": "2026-11-09T13:59:25+00:00",
-  "success": 722,
+  "checkedAt": "2026-11-16T13:45:09+00:00",
+  "success": 721,
   "failures": [
     {
       "key": "material:CP-174739",
@@ -188,6 +188,10 @@
     },
     {
       "key": "material:CP-712458",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "radiator:165793",
       "reason": "HTTP Error 404: Not Found"
     },
     {
