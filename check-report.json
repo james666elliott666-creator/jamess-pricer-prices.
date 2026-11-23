@@ -1,6 +1,6 @@
 {
-  "checkedAt": "2026-11-16T13:45:09+00:00",
-  "success": 721,
+  "checkedAt": "2026-11-23T16:06:28+00:00",
+  "success": 719,
   "failures": [
     {
       "key": "material:CP-174739",
@@ -24,7 +24,7 @@
     },
     {
       "key": "material:CP-210878",
-      "reason": "Pack quantity changed; review required"
+      "reason": "Product not found on source page"
     },
     {
       "key": "material:CP-321995",
@@ -57,6 +57,10 @@
     {
       "key": "material:CP-905659",
       "reason": "Pack quantity changed; review required"
+    },
+    {
+      "key": "material:CP-941171",
+      "reason": "Price changed by more than the review threshold"
     },
     {
       "key": "material:CP-985638",
@@ -153,6 +157,10 @@
     {
       "key": "material:CP-210552",
       "reason": "Pack quantity changed; review required"
+    },
+    {
+      "key": "material:CP-237890",
+      "reason": "Displayed price disagrees with product data"
     },
     {
       "key": "material:CP-134200",
